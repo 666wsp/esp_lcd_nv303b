@@ -1,0 +1,7 @@
+dependencies:
+  cmake_utilities: 0.*
+  idf: '>=4.4'
+description: ESP LCD NV303b(io8080)
+repository: git@github.com:666wsp/esp_lcd_nv303b.git
+url: https://github.com/666wsp/esp_lcd_nv303b.git
+version: 1.0.0
